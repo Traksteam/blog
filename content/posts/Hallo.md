@@ -8,6 +8,4 @@ license:
 hidden: false
 comments: true
 draft: true
-###### Test
-This is **bold** text, and this is *emphasized* text.
 ---
